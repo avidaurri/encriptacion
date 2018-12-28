@@ -1,0 +1,7 @@
+C:\Users\vidaurri\source\repos\encriptacion\encriptacion\bin\Debug\encriptacion.exe.config
+C:\Users\vidaurri\source\repos\encriptacion\encriptacion\bin\Debug\encriptacion.exe
+C:\Users\vidaurri\source\repos\encriptacion\encriptacion\bin\Debug\encriptacion.pdb
+C:\Users\vidaurri\source\repos\encriptacion\encriptacion\obj\Debug\encriptacion.csprojAssemblyReference.cache
+C:\Users\vidaurri\source\repos\encriptacion\encriptacion\obj\Debug\encriptacion.csproj.CoreCompileInputs.cache
+C:\Users\vidaurri\source\repos\encriptacion\encriptacion\obj\Debug\encriptacion.exe
+C:\Users\vidaurri\source\repos\encriptacion\encriptacion\obj\Debug\encriptacion.pdb
